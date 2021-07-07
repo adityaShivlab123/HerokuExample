@@ -1,0 +1,6 @@
+{
+    //For Use Of JavaScript ES6 Syntax
+    "presets": [
+    "@babel/preset-env"
+    ]
+    }
